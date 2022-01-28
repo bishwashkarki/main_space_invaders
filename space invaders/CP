@@ -1,0 +1,2 @@
+ball_position = projectile1.get_rect(midbottom=(700,800))
+        screen.blit(projectile1, ball_position)
